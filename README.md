@@ -4,7 +4,7 @@ Esse script que programei basicamente cria um pacote SYN e envia ele pra o host 
 
 Após o script enviar esse pacote SYN para o alvo, ele recebe a resposta da porta que ele enviou o pacote;
 
-Tendo em vista que o código já armazenou essa resposta do alvo numa variável, o script verifica o tipo da resposta, vendo se as portas TCP responderam com SYN ACK ou RST ACK;
+Tendo em vista que o código já armazenou essa resposta do alvo numa variável, o script verifica o tipo da resposta, vendo se as portas TCP responderam com SYN ACK
 
 
 Como usar?
